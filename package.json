@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-connection-ready",
+  "version": "1.0.0",
+  "description": "Promisified mongoose connection state.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mjlescano/mongoose-connection-ready.git"
+  },
+  "keywords": [
+    "mongoose",
+    "ready",
+    "promise",
+    "connect",
+    "connection"
+  ],
+  "author": "Matías Lescano <matiasj.lescano@gmail.com> (http://github.com/mjlescano)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjlescano/mongoose-connection-ready/issues"
+  },
+  "homepage": "https://github.com/mjlescano/mongoose-connection-ready#readme"
+}
