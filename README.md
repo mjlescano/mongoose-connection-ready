@@ -1,6 +1,8 @@
 Mongoose Connection Ready
 =========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mjlescano/mongoose-connection-ready.svg)](https://greenkeeper.io/)
+
 Helper function to get a Promise from a Mongoose `connection` object.
 
 Usage
